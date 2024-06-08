@@ -1,4 +1,4 @@
-import { add } from './fx.ts'
+import { add } from './mod.ts'
 
 describe('add', () => {
   it('works', () => {

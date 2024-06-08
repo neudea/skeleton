@@ -1,13 +1,13 @@
 {
-  "name": "fx",
+  "name": "skeleton",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/mod.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "neudea",
   "license": "AGPLv3",
   "devDependencies": {
     "@total-typescript/ts-reset": "^0.5.1",
